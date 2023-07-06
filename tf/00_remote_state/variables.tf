@@ -1,10 +1,10 @@
 variable "studentid" {
-  default = "student<xx>"
+  default = "student02"
   description = "Your student ID"
 }
 
 variable "region" {
-  default = "eu-west-3"
+  default = "eu-north-1"
   description = "The AWS region."
 }
 
